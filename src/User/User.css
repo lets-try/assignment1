@@ -1,0 +1,8 @@
+.output {
+    align-self:center;
+    border: 5px solid black;
+    margin: 15px;
+    padding: 20px;
+    width: 400px;
+    height: 130px;
+};
